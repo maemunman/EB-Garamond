@@ -5,8 +5,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 2368 -1 N 1 0 0 1 -26 35 2
-Refer: 2362 -1 N 1 0 0 1 -151 35 2
-Refer: 636 921 N 1 0 0 1 0 0 3
+Refer: 974 8157 N 1 0 0 1 1.17214 -113 2
+Refer: 636 921 N 1 0 0 1 0 0 2
 MultipleSubs2: "CCMP_Precomp subtable" Iota uni0314.grk gravecomb.grkstack
 EndChar

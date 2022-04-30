@@ -1,8 +1,11 @@
 StartChar: uni1FBC
 Encoding: 8124 8124 2434
-Width: 1000
+Width: 772
 VWidth: 0
-Flags: MW
+Flags: HMW
 LayerCount: 2
+Fore
+Refer: 2371 837 N 1 0 0 1 221 51 2
+Refer: 631 913 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" Alpha uni0345.cap
 EndChar
