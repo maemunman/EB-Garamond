@@ -10,5 +10,7 @@ Refer: 2704 -1 N 1 0 0 1 202 20 2
 Refer: 2703 837 N 1 0 0 1 28 4 2
 Refer: 2405 951 N 1 0 0 1 0 0 3
 Validated: 1
+Substitution2: "Smallcaps1 subtable" uni1FC4.sc
+Substitution2: "c2sc subtable" uni1FC4.sc
 MultipleSubs2: "CCMP_Precomp subtable" eta uni0345 acutecomb.grk
 EndChar

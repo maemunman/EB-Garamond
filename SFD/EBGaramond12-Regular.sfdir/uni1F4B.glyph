@@ -11,4 +11,5 @@ Refer: 2697 -1 N 1 0 0 1 -20 35 2
 Refer: 638 927 N 1 0 0 1 157 0 2
 Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" Omicron uni0314.grk gravecomb.grkstack
+Substitution2: "c2sc subtable" uni1F43.ctsc
 EndChar

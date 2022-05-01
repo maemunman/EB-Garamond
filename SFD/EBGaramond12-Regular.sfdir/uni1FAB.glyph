@@ -12,4 +12,5 @@ Refer: 2718 -1 N 1 0 0 1 461 51 2
 Refer: 1133 937 N 1 0 0 1 122 0 2
 Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" uni03A9 uni0345.cap uni0314.grk gravecomb.grkstack
+Substitution2: "c2sc subtable" uni1FA3.ctsc
 EndChar

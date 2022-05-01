@@ -1,0 +1,10 @@
+StartChar: Epsilontonos.ctsc
+Encoding: 1115496 -1 3334
+Width: 480
+VWidth: 0
+Flags: HWO
+LayerCount: 3
+Fore
+Refer: 3323 -1 N 1 0 0 1 0 0 2
+Colour: ff
+EndChar

@@ -9,5 +9,6 @@ Fore
 Refer: 967 772 N 1 0 0 1 -67 10 2
 Refer: 2407 953 N 1 0 0 1 0 0 3
 Validated: 1
+Substitution2: "Smallcaps1 subtable" uni1FD1.sc
 MultipleSubs2: "CCMP_Precomp subtable" iota uni0304
 EndChar

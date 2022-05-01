@@ -10,5 +10,6 @@ Refer: 2699 -1 N 1 0 0 1 237 -20 2
 Refer: 2696 -1 N 1 0 0 1 112 -20 2
 Refer: 2400 945 N 1 0 0 1 0 0 3
 Validated: 1
+Substitution2: "Smallcaps1 subtable" uni1F02.sc
 MultipleSubs2: "CCMP_Precomp subtable" alpha uni0313.grk gravecomb.grkstack
 EndChar

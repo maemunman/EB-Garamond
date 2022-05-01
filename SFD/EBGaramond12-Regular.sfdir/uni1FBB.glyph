@@ -10,4 +10,5 @@ Refer: 2704 -1 N 1 0 0 1 109 35 2
 Refer: 629 913 N 1 0 0 1 0 0 3
 Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" Alpha acutecomb.grk
+Substitution2: "c2sc subtable" uni1F71.ctsc
 EndChar
