@@ -3,9 +3,10 @@ Encoding: 901 901 2185
 Width: 271
 VWidth: 0
 Flags: HMW
+AnchorPoint: "grk_uc_top_left" 321.962 651.9 mark 0
 LayerCount: 2
 Fore
-Refer: 2184 900 N 1 0 0 1 235.923 31 2
+Refer: 2184 900 N 1 0 0 1 291.923 149 2
 Refer: 72 168 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" space.stack uni0308.grkstack acutecomb.grk
 EndChar

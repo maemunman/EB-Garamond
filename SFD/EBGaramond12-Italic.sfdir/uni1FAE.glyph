@@ -1,11 +1,11 @@
 StartChar: uni1FAE
 Encoding: 8110 8110 2410
-Width: 830
+Width: 770
 VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 2371 837 N 1 0 0 1 304.074 -4 2
+Refer: 2371 837 N 1 0 0 1 244.074 -4 2
 Refer: 2326 8046 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" uni03A9 uni0345.cap uni0313.grkstack uni0342
 EndChar

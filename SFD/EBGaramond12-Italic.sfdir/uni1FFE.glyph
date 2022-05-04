@@ -3,6 +3,7 @@ Encoding: 8190 8190 758
 Width: 221
 VWidth: 0
 Flags: HMW
+AnchorPoint: "grk_uc_top_left" -48 758.3 mark 0
 LayerCount: 2
 Fore
 Refer: 127 788 N 1 0 0 1 -162 131 2

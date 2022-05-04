@@ -5,7 +5,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 976 8159 N 1 0 0 1 567.605 -83 2
+Refer: 976 8159 S 1 0 0 1 452.734 -122.9 2
 Refer: 2161 945 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" alpha uni0314.grkstack uni0342
 EndChar

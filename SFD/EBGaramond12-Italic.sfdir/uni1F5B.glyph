@@ -5,7 +5,7 @@ VWidth: 0
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 974 8157 N 1 0 0 1 118.089 -113 2
-Refer: 643 933 N 1 0 0 1 0 0 2
+Refer: 974 8157 N 1 0 0 1 -24.6211 -73.3 2
+Refer: 643 933 N 1 0 0 1 0 0 3
 MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314.grk gravecomb.grkstack
 EndChar

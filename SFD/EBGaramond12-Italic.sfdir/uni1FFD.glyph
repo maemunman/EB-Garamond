@@ -3,10 +3,10 @@ Encoding: 8189 8189 757
 Width: 201
 VWidth: 0
 Flags: HMW
+AnchorPoint: "grk_uc_top_left" 102.167 221.767 mark 0
 LayerCount: 2
 Fore
 Refer: 2367 -1 N 1 0 0 1 20 -403 2
 Refer: 2375 -1 N 1 0 0 1 14 0 2
-Validated: 1
 MultipleSubs2: "CCMP_Precomp subtable" space.stack acutecomb.grk
 EndChar

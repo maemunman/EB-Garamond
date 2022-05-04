@@ -10,8 +10,8 @@ Refer: 2265 834 N 1 0 0 1 -46 176 2
 Refer: 2702 -1 N 1 0 0 1 41 0 2
 Refer: 641 933 N 1 0 0 1 217 0 2
 Validated: 1
-Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Single Positioning lookup 32 subtable" dx=0 dy=0 dh=-70 dv=0
+Position2: "Single Positioning lookup 33 subtable" dx=0 dy=0 dh=-70 dv=0
 MultipleSubs2: "CCMP_Precomp subtable" Upsilon uni0314.grkstack uni0342
 Substitution2: "c2sc subtable" uni1F57.ctsc
 EndChar
